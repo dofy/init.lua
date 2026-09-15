@@ -89,7 +89,7 @@ lazy.nvim の spec テーブルを返します —— 自動的に読み込ま�
 | UI | catppuccin、lualine、alpha、dressing、indent-blankline、which-key |
 | 編集 | autopairs、substitute.nvim、todo-comments、trouble.nvim |
 | Git | gitsigns、lazygit |
-| セッションとその他 | auto-session、wakatime |
+| セッションとその他 | auto-session |
 
 ## キーマップ
 

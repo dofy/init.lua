@@ -84,7 +84,7 @@ spec 테이블을 반환하면 됩니다 — 자동으로 임포트됩니다.
 | UI | catppuccin, lualine, alpha, dressing, indent-blankline, which-key |
 | 편집 | autopairs, substitute.nvim, todo-comments, trouble.nvim |
 | Git | gitsigns, lazygit |
-| 세션과 기타 | auto-session, wakatime |
+| 세션과 기타 | auto-session |
 
 ## 키맵
 

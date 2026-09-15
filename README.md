@@ -88,7 +88,7 @@ spec table — it is auto-imported.
 | UI | catppuccin, lualine, alpha, dressing, indent-blankline, which-key |
 | Editing | autopairs, substitute.nvim, todo-comments, trouble.nvim |
 | Git | gitsigns, lazygit |
-| Session & misc | auto-session, wakatime |
+| Session & misc | auto-session |
 
 ## Keymaps
 

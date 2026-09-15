@@ -92,7 +92,7 @@ table de spec lazy.nvim — elle est importée automatiquement.
 | Interface | catppuccin, lualine, alpha, dressing, indent-blankline, which-key |
 | Édition | autopairs, substitute.nvim, todo-comments, trouble.nvim |
 | Git | gitsigns, lazygit |
-| Session et divers | auto-session, wakatime |
+| Session et divers | auto-session |
 
 ## Raccourcis
 

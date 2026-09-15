@@ -81,7 +81,7 @@ init.lua
 | 界面 | catppuccin、lualine、alpha、dressing、indent-blankline、which-key |
 | 编辑 | autopairs、substitute.nvim、todo-comments、trouble.nvim |
 | Git | gitsigns、lazygit |
-| 会话与其他 | auto-session、wakatime |
+| 会话与其他 | auto-session |
 
 ## 快捷键
 
